@@ -10,4 +10,6 @@ test
 xxxx
 yyyy
 branch
+origin
+
 
